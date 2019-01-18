@@ -6,3 +6,7 @@
  * Time: 14:20
  */
 namespace Admin;
+function test()
+{
+    return 111;
+}
